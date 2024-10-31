@@ -9,6 +9,7 @@ Materiales para la clase "Visualización de Datos Efectiva con Altair"
 
 ## Recursos
 * Galería de Altair: [altair-viz.github.io/gallery](https://altair-viz.github.io/gallery)
+* Data Types de Altair: https://altair-viz.github.io/user_guide/encodings/index.html#encoding-data-types
 * Creación de datos sínteticos: 
     - [mockaroo.com](https://mockaroo.com)
     - [drawdata.xyz](https://drawdata.xyz)
